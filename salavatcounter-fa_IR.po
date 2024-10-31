@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: salavat-counter\n"
+"POT-Creation-Date: 2022-07-08 01:52+0430\n"
+"PO-Revision-Date: 2022-07-08 01:53+0430\n"
+"Last-Translator: wp-master.ir <wp@wp-master.ir>\n"
+"Language-Team: wp-master.ir <wp@wp-master.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _;_e;__;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:47 index.php:48 wp-table-options.php:35
+msgid "salavat-counter"
+msgstr "صلوات شمار"
+
+#: index.php:49
+msgid "blue"
+msgstr "آبی"
+
+#: index.php:50
+msgid "green"
+msgstr "سبز"
+
+#: index.php:51
+msgid "lajevardi"
+msgstr "لاجوردی"
+
+#: index.php:52
+msgid "orange"
+msgstr "نارنجی"
+
+#: index.php:53
+msgid "phosphor"
+msgstr "فسفری"
+
+#: index.php:54
+msgid "red"
+msgstr "قرمز"
+
+#: index.php:55
+msgid "yellow"
+msgstr "زرد"
+
+#: index.php:116
+msgid "Localizing was successful"
+msgstr "بومی سازی موفق بود"
+
+#: index.php:160
+msgid "Err:id"
+msgstr "خ:id"
+
+#: index.php:179
+msgid "Err:dsbl"
+msgstr "خ:غیرفعال"
+
+#: index.php:187
+msgid "counted"
+msgstr "شمارش شد"
+
+#: index.php:190
+msgid "Err:u"
+msgstr "خ:بروزرسانی"
+
+#: index.php:259
+msgid "done"
+msgstr "انجام شد"
+
+#: index.php:461
+msgid "for"
+msgstr "برای"
+
+#: index.php:465
+#, php-format
+msgid "%s was saied till now!"
+msgstr "%s تا کنون فرستاده شده است!"
+
+#: index.php:475
+#, php-format
+msgid "say 1 %s"
+msgstr "%s"
+
+#: index.php:479
+msgid "for working salavat counter javascript is needed."
+msgstr "برای کار صلوات شمار فعال بودن جاوا اسکریپت ضروریست."
+
+#: index.php:493 index.php:494 index.php:501 index.php:512 index.php:537
+msgid "salavat counter"
+msgstr "صلوات شمار"
+
+#: index.php:506 wp-table-class.php:58 wp-table-options.php:116
+#: wp-table-options.php:277
+msgid "title"
+msgstr "عنوان"
+
+#: wp-table-class.php:27
+msgid "No Item Found"
+msgstr "موردی یافت نشد"
+
+#: wp-table-class.php:57
+msgid "id"
+msgstr "ID"
+
+#: wp-table-class.php:59 wp-table-options.php:142 wp-table-options.php:309
+msgid "view method"
+msgstr "متد نمایش"
+
+#: wp-table-class.php:60
+msgid "codes"
+msgstr "کدها"
+
+#: wp-table-class.php:85
+msgid "Edit"
+msgstr "ویرایش"
+
+#: wp-table-class.php:86
+msgid "Delete"
+msgstr "حذف"
+
+#: wp-table-class.php:90
+msgid "Deactive"
+msgstr "غیر فعال"
+
+#: wp-table-class.php:93
+msgid "Active"
+msgstr "فعال"
+
+#: wp-table-class.php:109
+msgid "Method is corner , view on my site"
+msgstr "روش نمایش:در گوشه سایت،برای سایت من فعال کن"
+
+#: wp-table-class.php:113
+#, php-format
+msgid "use <a href=\"%s\">widgets</a> or shortcode"
+msgstr "از <a href=\"%s\">ابزارکها</a> یا کدهای کوتاه استفاده کنید"
+
+#: wp-table-class.php:163
+msgid "short code"
+msgstr "کد کوتاه"
+
+#: wp-table-class.php:164
+msgid "theme code"
+msgstr "کد قالب"
+
+#: wp-table-class.php:165
+msgid "use in other sites"
+msgstr "گذاشتن در سایتهای دیگر"
+
+#: wp-table-options.php:54
+msgid "Salavat Counters"
+msgstr "صلوات شمارها"
+
+#: wp-table-options.php:54
+msgid "New Salavat Counter"
+msgstr "افزودن صلوات شمار"
+
+#: wp-table-options.php:91
+msgid "Inserted"
+msgstr "اضافه گردید"
+
+#: wp-table-options.php:93 wp-table-options.php:245 wp-table-options.php:389
+#: wp-table-options.php:407 wp-table-options.php:426
+msgid "Problem , try again"
+msgstr "مشکلی پیش آمده،مجدد تلاش کنید."
+
+#: wp-table-options.php:104 wp-table-options.php:263
+msgid "status"
+msgstr "وضعیت"
+
+#: wp-table-options.php:108 wp-table-options.php:268
+msgid "Enable"
+msgstr "فعال"
+
+#: wp-table-options.php:109 wp-table-options.php:270
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: wp-table-options.php:124 wp-table-options.php:287
+msgid "zekr"
+msgstr "ذکر"
+
+#: wp-table-options.php:133 wp-table-options.php:299
+msgid "niyat"
+msgstr "نیت"
+
+#: wp-table-options.php:146 wp-table-options.php:314
+msgid "Widget"
+msgstr "ابزارک"
+
+#: wp-table-options.php:147 wp-table-options.php:316
+msgid "Corner"
+msgstr "گوشه"
+
+#: wp-table-options.php:151 wp-table-options.php:321
+msgid "top-right"
+msgstr "بالا سمت راست"
+
+#: wp-table-options.php:152 wp-table-options.php:323
+msgid "top-left"
+msgstr "بالا سمت چپ"
+
+#: wp-table-options.php:153 wp-table-options.php:327
+msgid "bottom-right"
+msgstr "پایین سمت راست"
+
+#: wp-table-options.php:154 wp-table-options.php:329
+msgid "bottom-left"
+msgstr "پایین سمت چپ"
+
+#: wp-table-options.php:158 wp-table-options.php:335
+msgid "Enable image"
+msgstr "با عکس"
+
+#: wp-table-options.php:160
+msgid "rounded?"
+msgstr "گرد؟"
+
+#: wp-table-options.php:162 wp-table-options.php:340
+msgid "image(Leave empty for default image)"
+msgstr "تصویر(برای استفاده از تصویر پیشفرض خالی گذاشته شود)"
+
+#: wp-table-options.php:165 wp-table-options.php:343
+msgid "Select"
+msgstr "گزینش"
+
+#: wp-table-options.php:172 wp-table-options.php:350
+msgid "view style"
+msgstr "استایل نمایش"
+
+#: wp-table-options.php:195
+msgid "Add"
+msgstr "افزودن"
+
+#: wp-table-options.php:243
+msgid "Updated"
+msgstr "به روز شد"
+
+#: wp-table-options.php:325
+msgid "top-center"
+msgstr "بالا-وسط"
+
+#: wp-table-options.php:331
+msgid "bottom-center"
+msgstr "پایین-وسط"
+
+#: wp-table-options.php:337
+msgid "rounded"
+msgstr "گرد شده؟"
+
+#: wp-table-options.php:373
+msgid "Update"
+msgstr "به روزرسانی"
+
+#: wp-table-options.php:387
+msgid "Deleted"
+msgstr "حذف شد"
+
+#: wp-table-options.php:405
+msgid "Activated"
+msgstr "فعال شد"
+
+#: wp-table-options.php:424
+msgid "Deactivated"
+msgstr "غیر فعال شد"
+
+#~ msgid "Err:c"
+#~ msgstr "خ:c"
+
+#~ msgid "Only corner mode supported"
+#~ msgstr "فقط حالت گوشه پشتیبانی می شود"
+
+#~ msgid "id parametr does not specefied"
+#~ msgstr "پارامتر id ست نشده است"
+
+#~ msgid "ajax implemented successfuly"
+#~ msgstr "Ajax با موفقیت اعمال شد"
+
+#~ msgid "use widget or shortcode"
+#~ msgstr "برای نمایش از ابزارک یا کدکوتاه استفاده کنید"
+
+#~ msgid "end date"
+#~ msgstr "تاریخ پایان"
+
+#~ msgid "Statuse"
+#~ msgstr "وضعیت"
+
+#~ msgid "image"
+#~ msgstr "عكس"
+
+#~ msgid "salavat"
+#~ msgstr "صلوات"
+
+#~ msgid "external scripts(in other sites)"
+#~ msgstr "اسکریپت خارجی(گذاشتن در سایتهای دیگر)"
+
+#~ msgid "external scripts"
+#~ msgstr "اسکریپت خارجی"

@@ -1,0 +1,15 @@
+.salavatcounter-corner {
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 6px;
+}
+.salavatcounter-add-salavat {
+  color: #000 !important;
+  opacity: 1;
+  font-size: 0.9em;
+  text-align: center;
+  border-top: 1px solid #ededed;
+}
+span.salavatacounter-count {
+  color: #000;
+}
